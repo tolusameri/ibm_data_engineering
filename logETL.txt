@@ -1,0 +1,7 @@
+2023-43-03 10:09:1693737820	ETL Job Started
+2023-43-03 10:09:1693737820	Extract phase Started
+2023-43-03 10:09:1693737820	Extract phase Ended
+2023-43-03 10:09:1693737820	Transform phase Started
+2023-43-03 10:09:1693737821	Transform phase Ended
+2023-43-03 10:09:1693737821	Load phase Started
+2023-43-03 10:09:1693737821	Load phase Ended
